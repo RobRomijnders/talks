@@ -2,3 +2,5 @@
 /DSA/
 DS_utrecht/
 pydata
+!pydata/latex/main.pdf
+!/pydata/latex/main.pdf
