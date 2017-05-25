@@ -1,5 +1,7 @@
 /DSZ/
 /DSA/
+/cat/
+!/cat/main.pdf
 DS_utrecht/
 pydata
 tue_pres/
